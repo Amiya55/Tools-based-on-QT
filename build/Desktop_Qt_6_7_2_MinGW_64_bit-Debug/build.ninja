@@ -57,21 +57,29 @@ build CMakeFiles/Tools.dir/Tools_autogen/mocs_compilation.cpp.obj: CXX_COMPILER_
   OBJECT_DIR = CMakeFiles\Tools.dir
   OBJECT_FILE_DIR = CMakeFiles\Tools.dir\Tools_autogen
 
-build CMakeFiles/Tools.dir/res/main.cpp.obj: CXX_COMPILER__Tools_unscanned_Debug D$:/Codeing/Program/QT_Programs/Tools/res/main.cpp || cmake_object_order_depends_target_Tools
+build CMakeFiles/Tools.dir/res/main/main.cpp.obj: CXX_COMPILER__Tools_unscanned_Debug D$:/Codeing/Program/QT_Programs/Tools/res/main/main.cpp || cmake_object_order_depends_target_Tools
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  DEP_FILE = CMakeFiles\Tools.dir\res\main.cpp.obj.d
+  DEP_FILE = CMakeFiles\Tools.dir\res\main\main.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -ID:/Codeing/Program/QT_Programs/Tools/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Tools_autogen/include -ID:/Codeing/Program/QT_Programs/Tools/include -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui
   OBJECT_DIR = CMakeFiles\Tools.dir
-  OBJECT_FILE_DIR = CMakeFiles\Tools.dir\res
+  OBJECT_FILE_DIR = CMakeFiles\Tools.dir\res\main
 
-build CMakeFiles/Tools.dir/res/mainwindow.cpp.obj: CXX_COMPILER__Tools_unscanned_Debug D$:/Codeing/Program/QT_Programs/Tools/res/mainwindow.cpp || cmake_object_order_depends_target_Tools
+build CMakeFiles/Tools.dir/res/mainWindow/mainwindow.cpp.obj: CXX_COMPILER__Tools_unscanned_Debug D$:/Codeing/Program/QT_Programs/Tools/res/mainWindow/mainwindow.cpp || cmake_object_order_depends_target_Tools
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  DEP_FILE = CMakeFiles\Tools.dir\res\mainwindow.cpp.obj.d
+  DEP_FILE = CMakeFiles\Tools.dir\res\mainWindow\mainwindow.cpp.obj.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
   INCLUDES = -ID:/Codeing/Program/QT_Programs/Tools/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Tools_autogen/include -ID:/Codeing/Program/QT_Programs/Tools/include -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui
   OBJECT_DIR = CMakeFiles\Tools.dir
-  OBJECT_FILE_DIR = CMakeFiles\Tools.dir\res
+  OBJECT_FILE_DIR = CMakeFiles\Tools.dir\res\mainWindow
+
+build CMakeFiles/Tools.dir/res/lottery/lottery.cpp.obj: CXX_COMPILER__Tools_unscanned_Debug D$:/Codeing/Program/QT_Programs/Tools/res/lottery/lottery.cpp || cmake_object_order_depends_target_Tools
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\Tools.dir\res\lottery\lottery.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -ID:/Codeing/Program/QT_Programs/Tools/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Tools_autogen/include -ID:/Codeing/Program/QT_Programs/Tools/include -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\Tools.dir
+  OBJECT_FILE_DIR = CMakeFiles\Tools.dir\res\lottery
 
 
 # =============================================================================
@@ -81,7 +89,7 @@ build CMakeFiles/Tools.dir/res/mainwindow.cpp.obj: CXX_COMPILER__Tools_unscanned
 #############################################
 # Link the executable Tools.exe
 
-build Tools.exe: CXX_EXECUTABLE_LINKER__Tools_Debug CMakeFiles/Tools.dir/Tools_autogen/mocs_compilation.cpp.obj CMakeFiles/Tools.dir/res/main.cpp.obj CMakeFiles/Tools.dir/res/mainwindow.cpp.obj | C$:/Qt/6.7.2/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.7.2/mingw_64/lib/libQt6Gui.a C$:/Qt/6.7.2/mingw_64/lib/libQt6Core.a C$:/Qt/6.7.2/mingw_64/lib/libQt6EntryPoint.a || Tools_autogen Tools_autogen_timestamp_deps
+build Tools.exe: CXX_EXECUTABLE_LINKER__Tools_Debug CMakeFiles/Tools.dir/Tools_autogen/mocs_compilation.cpp.obj CMakeFiles/Tools.dir/res/main/main.cpp.obj CMakeFiles/Tools.dir/res/mainWindow/mainwindow.cpp.obj CMakeFiles/Tools.dir/res/lottery/lottery.cpp.obj | C$:/Qt/6.7.2/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.7.2/mingw_64/lib/libQt6Gui.a C$:/Qt/6.7.2/mingw_64/lib/libQt6Core.a C$:/Qt/6.7.2/mingw_64/lib/libQt6EntryPoint.a || Tools_autogen Tools_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_FLAGS = -mwindows
   LINK_LIBRARIES = C:/Qt/6.7.2/mingw_64/lib/libQt6Widgets.a  C:/Qt/6.7.2/mingw_64/lib/libQt6Gui.a  C:/Qt/6.7.2/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lmingw32  C:/Qt/6.7.2/mingw_64/lib/libQt6EntryPoint.a  -lshell32  -ld3d11  -ldxgi  -ldxguid  -ld3d12  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32

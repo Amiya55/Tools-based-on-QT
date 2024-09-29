@@ -13,9 +13,12 @@ find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Widgets)
 find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets)
 
 set(PROJECT_SOURCES
-        res/main.cpp
-        res/mainwindow.cpp
-        include/mainwindow.h
+        res/main/main.cpp
+        res/mainWindow/mainwindow.cpp
+        res/lottery/lottery.cpp
+        include/headers/struct.h
+        include/lottery/lottery.h
+        include/mainWindow/mainwindow.h
 
 )
 

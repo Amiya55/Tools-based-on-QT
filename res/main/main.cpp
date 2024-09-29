@@ -1,4 +1,5 @@
-#include "../include/mainwindow.h"
+#include "../../include/mainWindow/mainwindow.h"
+#include "../../include/lottery/lottery.h"
 #include <QtWidgets/QApplication>
 
 int main(int argc, char *argv[])

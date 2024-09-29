@@ -297,9 +297,21 @@
 	"HEADERS" : 
 	[
 		[
-			"D:/Codeing/Program/QT_Programs/Tools/include/mainwindow.h",
+			"D:/Codeing/Program/QT_Programs/Tools/include/headers/struct.h",
 			"MU",
-			"6YEA5652QU/moc_mainwindow.cpp",
+			"YRZEHSQPHS/moc_struct.cpp",
+			null
+		],
+		[
+			"D:/Codeing/Program/QT_Programs/Tools/include/lottery/lottery.h",
+			"MU",
+			"LYOJWRUSNO/moc_lottery.cpp",
+			null
+		],
+		[
+			"D:/Codeing/Program/QT_Programs/Tools/include/mainWindow/mainwindow.h",
+			"MU",
+			"3CNPGXI35L/moc_mainwindow.cpp",
 			null
 		]
 	],
@@ -375,8 +387,17 @@
 	"SETTINGS_FILE" : "D:/Codeing/Program/QT_Programs/Tools/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Tools_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "D:/Codeing/Program/QT_Programs/Tools/res/main.cpp", "MU", null ],
-		[ "D:/Codeing/Program/QT_Programs/Tools/res/mainwindow.cpp", "MU", null ]
+		[
+			"D:/Codeing/Program/QT_Programs/Tools/res/lottery/lottery.cpp",
+			"MU",
+			null
+		],
+		[ "D:/Codeing/Program/QT_Programs/Tools/res/main/main.cpp", "MU", null ],
+		[
+			"D:/Codeing/Program/QT_Programs/Tools/res/mainWindow/mainwindow.cpp",
+			"MU",
+			null
+		]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
