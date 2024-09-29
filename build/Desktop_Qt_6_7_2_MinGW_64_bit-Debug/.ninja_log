@@ -1,0 +1,9 @@
+# ninja log v6
+7	505	7493186469956285	Tools_autogen/timestamp	a246ffe4981f3b7d
+7	505	7493186469956285	Tools_autogen/mocs_compilation.cpp	a246ffe4981f3b7d
+7	505	7493186469956285	D:/Codeing/Program/QT_Programs/Tools/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Tools_autogen/timestamp	a246ffe4981f3b7d
+7	505	7493186469956285	D:/Codeing/Program/QT_Programs/Tools/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Tools_autogen/mocs_compilation.cpp	a246ffe4981f3b7d
+509	2361	7493186470695855	CMakeFiles/Tools.dir/Tools_autogen/mocs_compilation.cpp.obj	9e65abde48e22118
+513	2421	7493186470695855	CMakeFiles/Tools.dir/main.cpp.obj	f5c46f2704e79054
+517	4629	7493186470695855	CMakeFiles/Tools.dir/mainwindow.cpp.obj	7c89abb0877c880a
+4629	6232	7493186511909946	Tools.exe	386689c81b0686a
