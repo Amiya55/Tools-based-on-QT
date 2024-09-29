@@ -1,9 +1,14 @@
 # ninja log v6
-7	505	7493186469956285	Tools_autogen/timestamp	a246ffe4981f3b7d
-7	505	7493186469956285	Tools_autogen/mocs_compilation.cpp	a246ffe4981f3b7d
-7	505	7493186469956285	D:/Codeing/Program/QT_Programs/Tools/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Tools_autogen/timestamp	a246ffe4981f3b7d
-7	505	7493186469956285	D:/Codeing/Program/QT_Programs/Tools/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Tools_autogen/mocs_compilation.cpp	a246ffe4981f3b7d
-509	2361	7493186470695855	CMakeFiles/Tools.dir/Tools_autogen/mocs_compilation.cpp.obj	9e65abde48e22118
-513	2421	7493186470695855	CMakeFiles/Tools.dir/main.cpp.obj	f5c46f2704e79054
-517	4629	7493186470695855	CMakeFiles/Tools.dir/mainwindow.cpp.obj	7c89abb0877c880a
-4629	6232	7493186511909946	Tools.exe	386689c81b0686a
+6	106	7493213701883272	Tools_autogen/timestamp	a246ffe4981f3b7d
+6	106	7493213701883272	Tools_autogen/mocs_compilation.cpp	a246ffe4981f3b7d
+109	151	7493213702916757	CMakeFiles/Tools.dir/Tools_autogen/mocs_compilation.cpp.obj	8f1b5887ac1f0e4
+6	106	7493213701883272	D:/Codeing/Program/QT_Programs/Tools/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Tools_autogen/timestamp	a246ffe4981f3b7d
+6	106	7493213701883272	D:/Codeing/Program/QT_Programs/Tools/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Tools_autogen/mocs_compilation.cpp	a246ffe4981f3b7d
+113	1802	7493213702946986	CMakeFiles/Tools.dir/res/main.cpp.obj	77656d0b148d8bf1
+117	3951	7493213702990038	CMakeFiles/Tools.dir/res/mainwindow.cpp.obj	387ae5e3912ec793
+28	487	7493215015664638	Tools_autogen/timestamp	a246ffe4981f3b7d
+28	487	7493215015664638	Tools_autogen/mocs_compilation.cpp	a246ffe4981f3b7d
+28	487	7493215015664638	D:/Codeing/Program/QT_Programs/Tools/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Tools_autogen/timestamp	a246ffe4981f3b7d
+28	487	7493215015664638	D:/Codeing/Program/QT_Programs/Tools/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Tools_autogen/mocs_compilation.cpp	a246ffe4981f3b7d
+487	1966	7493215016266027	CMakeFiles/Tools.dir/Tools_autogen/mocs_compilation.cpp.obj	8f1b5887ac1f0e4
+1966	3525	7493215031052904	Tools.exe	535b98d731dbe589
